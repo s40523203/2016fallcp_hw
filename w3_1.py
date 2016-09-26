@@ -1,1 +1,1 @@
-print("Hello, world.")
+print("第三週")
