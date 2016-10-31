@@ -1,5 +1,5 @@
 # 40523203_hw
 
-http://mdecourse.github.io/2016fallcp_hw
+https://mdecourse.github.io/2016fallcpa
 
-http://mdecourse.github.io/2016fallcp_hw/blog
+https://mdecourse.github.io/2016fallcpa/blog
