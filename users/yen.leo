@@ -31,7 +31,7 @@
 <v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
+<v t="amd.20161004104820.1"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>計算機程式在教什麼?</vh></v>
 </v>
@@ -50,22 +50,11 @@
 <v t="yen.20161011121637.1"><vh>所謂自學</vh>
 <v t="yen.20161011121637.2"><vh>自學的訓練</vh></v>
 </v>
-<v t="amd.20161004105716.1" a="E"><vh>執行力</vh>
+<v t="amd.20161004105716.1"><vh>執行力</vh>
 <v t="amd.20161004105716.2"><vh>高效執行力</vh></v>
 </v>
 </v>
-<v t="yen.20161016004633.1" a="E"><vh>CP 課程倉儲</vh>
-<v t="yen.20161016004633.4" a="E"><vh>課程時段與規劃</vh>
-<v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
-</v>
-<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
-<v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
-</v>
-<v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
-<v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
-</v>
-</v>
-<v t="yen.20161011122932.1" a="E"><vh>自學力訓練</vh>
+<v t="yen.20161011122932.1"><vh>自學力訓練</vh>
 <v t="yen.20161011122601.1" a="E"><vh>自學的材料</vh>
 <v t="yen.20161011122601.2"><vh>自學 Python3</vh></v>
 </v>
@@ -79,7 +68,18 @@
 <v t="yen.20161011124118.2"><vh>Python 2 或 3?</vh></v>
 </v>
 </v>
-<v t="yen.20161011125115.1" a="E"><vh>執行力訓練</vh>
+<v t="yen.20161016004633.1"><vh>CP 課程倉儲</vh>
+<v t="yen.20161016004633.4"><vh>課程時段與規劃</vh>
+<v t="yen.20161016004633.5"><vh>規劃、Wiki 與網誌</vh></v>
+</v>
+<v t="yen.20161016010643.1"><vh>下載 miniconda 可攜環境</vh>
+<v t="yen.20161016010643.2"><vh>下載可攜程式環境</vh></v>
+</v>
+<v t="yen.20161016010719.1" a="E"><vh>學員自評項目</vh>
+<v t="yen.20161016012922.1"><vh>下載可攜程式環境</vh></v>
+</v>
+</v>
+<v t="yen.20161011125115.1"><vh>執行力訓練</vh>
 <v t="yen.20161016011920.1" a="E"><vh>程式練習主題</vh>
 <v t="yen.20161016011920.2"><vh>程式專題</vh></v>
 </v>
@@ -96,7 +96,7 @@
 <v t="yen.20161016012402.2"><vh>網際遊戲</vh></v>
 </v>
 </v>
-<v t="yen.20161011143808.1" a="E"><vh>協同力訓練</vh>
+<v t="yen.20161011143808.1"><vh>協同力訓練</vh>
 <v t="yen.20161011143808.2" a="E"><vh>Github 帳號</vh>
 <v t="yen.20161011143808.3"><vh>Github 倉儲網頁</vh></v>
 </v>
@@ -133,7 +133,7 @@
 <v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
 </v>
 </v>
-<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
+<v t="yen.20161016012809.1"><vh>各式內容引用範例</vh>
 <v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -149,7 +149,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -164,20 +164,73 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="leo.20161128144059.1"><vh>@edit 20161114.md</vh></v>
-<v t="leo.20161212141612.1"><vh>@edit 20161212.md</vh></v>
-<v t="leo.20170109134228.1"><vh>@edit 20170117.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
+<v t="leo.20161114165540.1"><vh>@edit 20161114.md</vh></v>
+<v t="leo.20161212141612.1"><vh>@edit 20161121.md</vh></v>
+<v t="leo.20161212141652.1"><vh>@edit 20161128.md</vh></v>
+<v t="leo.20161212141733.1"><vh>@edit 20161205.md</vh></v>
+<v t="leo.20161212141737.1"><vh>@edit 20161212.md</vh></v>
+<v t="leo.20161226140118.1"><vh>@edit 20161226.md</vh></v>
+<v t="leo.20170109134522.1"><vh>@edit 20170118.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
+<v t="leo.20161212143014.1"><vh>@button https server</vh></v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 <v t="yen.20161022111056.1"><vh>@button https server</vh></v>
 <v t="yen.20161022151749.1"><vh>產生 .key 與 .crt</vh></v>
+<v t="leo.20170118230942.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170118230942.2"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170118230942.3"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170118230942.4"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20170118230942.5"><vh>Recovered node "自學力訓練" from @clean index.html</vh>
+<v t="leo.20170118230942.6"><vh>old:自學力訓練</vh></v>
+<v t="leo.20170118230942.7"><vh>new:自學力訓練</vh></v>
+</v>
+<v t="leo.20170118230942.8"><vh>Recovered node "自學的材料" from @clean index.html</vh>
+<v t="leo.20170118230942.9"><vh>old:自學的材料</vh></v>
+<v t="leo.20170118230942.10"><vh>new:自學的材料</vh></v>
+</v>
+<v t="leo.20170118230942.11"><vh>Recovered node "Python 版次" from @clean index.html</vh>
+<v t="leo.20170118230942.12"><vh>old:Python 版次</vh></v>
+<v t="leo.20170118230942.13"><vh>new:Python 版次</vh></v>
+</v>
+<v t="leo.20170118230942.14"><vh>Recovered node "CP 課程倉儲" from @clean index.html</vh>
+<v t="leo.20170118230942.15"><vh>old:CP 課程倉儲</vh></v>
+<v t="leo.20170118230942.16"><vh>new:CP 課程倉儲</vh></v>
+</v>
+<v t="leo.20170118230942.17"><vh>Recovered node "課程時段與規劃" from @clean index.html</vh>
+<v t="leo.20170118230942.18"><vh>old:課程時段與規劃</vh></v>
+<v t="leo.20170118230942.19"><vh>new:課程時段與規劃</vh></v>
+</v>
+<v t="leo.20170118230942.20"><vh>Recovered node "規劃、Wiki 與網誌" from @clean index.html</vh>
+<v t="leo.20170118230942.21"><vh>old:規劃、Wiki 與網誌</vh></v>
+<v t="leo.20170118230942.22"><vh>new:規劃、Wiki 與網誌</vh></v>
+</v>
+<v t="leo.20170118230942.23"><vh>Recovered node "下載 miniconda 可攜環境" from @clean index.html</vh>
+<v t="leo.20170118230942.24"><vh>old:下載 miniconda 可攜環境</vh></v>
+<v t="leo.20170118230942.25"><vh>new:下載 miniconda 可攜環境</vh></v>
+</v>
+<v t="leo.20170118230942.26"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
+<v t="leo.20170118230942.27"><vh>old:下載可攜程式環境</vh></v>
+<v t="leo.20170118230942.28"><vh>new:下載可攜程式環境</vh></v>
+</v>
+<v t="leo.20170118230942.29"><vh>Recovered node "學員自評項目" from @clean index.html</vh>
+<v t="leo.20170118230942.30"><vh>old:學員自評項目</vh></v>
+<v t="leo.20170118230942.31"><vh>new:學員自評項目</vh></v>
+</v>
+<v t="leo.20170118230942.32"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
+<v t="leo.20170118230942.33"><vh>old:下載可攜程式環境</vh></v>
+<v t="leo.20170118230942.34"><vh>new:下載可攜程式環境</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -306,7 +359,7 @@ print("hello")
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [s40523203](http://chiamingyen.github.io/kmolab/blog/)
+Created by [s40523203](http://s405233203.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [s40523203](blog/index.html)
@@ -474,6 +527,358 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20161212143014.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 6443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("5443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()
+</t>
+<t tx="leo.20170118230942.1"></t>
+<t tx="leo.20170118230942.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+# 計算機程式課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.11">(uncached) yen.20161011124118.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170118230942.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.13">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+</t>
+<t tx="leo.20170118230942.14">(uncached) yen.20161016004633.1
+Diff...
++ &lt;section&gt;
+  @others
+  &lt;/section&gt;
+</t>
+<t tx="leo.20170118230942.15">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118230942.16">@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170118230942.17">(uncached) yen.20161016004633.4
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170118230942.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.19">@others
+</t>
+<t tx="leo.20170118230942.2">(uncached) amd.20161004095719.2
+Diff...
+  # 2016Fall 計算機程式課程
+  
+  ### 虎科大機械設計工程系
+  
+  &lt;small&gt;
+- Created by [s40523203](http://s405233203.github.io/kmolab/blog/)
+?                    -          ^^^^^^^^^^
++ Created by [s40523238](http://chiamingyen.github.io/kmolab/blog/)
+?                     +         ^^^^^^^^^^^
+  &lt;/small&gt;
+  
+- [s40523203](blog/index.html)
+?  -      -
++ [40523238](blog/index.html)
+?         +
+  
+</t>
+<t tx="leo.20170118230942.20">(uncached) yen.20161016004633.5
+Diff...
++ # 計算機程式課程規劃
++ 
++ ## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
++ ## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
++ ## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
++ 
+</t>
+<t tx="leo.20170118230942.21"># 計算機程式課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
+
+</t>
+<t tx="leo.20170118230942.22"></t>
+<t tx="leo.20170118230942.23">(uncached) yen.20161016010643.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170118230942.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.25">@others
+</t>
+<t tx="leo.20170118230942.26">(uncached) yen.20161016010643.2
+Diff...
++ ## 下載 miniconda 可攜環境
++ 
++   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
++   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
++   * start.bat 啟動, stop.bat 關閉
++   * 建議存在隨身硬碟中使用
++ 
++ 
+</t>
+<t tx="leo.20170118230942.27">## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
+</t>
+<t tx="leo.20170118230942.28"></t>
+<t tx="leo.20170118230942.29">(uncached) yen.20161016010719.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20170118230942.3"># 2016Fall 計算機程式課程
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [s40523238](http://chiamingyen.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[40523238](blog/index.html)
+
+</t>
+<t tx="leo.20170118230942.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.31">@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170118230942.32">(uncached) yen.20161016012922.1
+Diff...
++ ## 學員自評項目
++ 
++ * 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
++ * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
++ * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
++ * 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="leo.20170118230942.33">## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="leo.20170118230942.34"></t>
+<t tx="leo.20170118230942.4"># 2016Fall 計算機程式課程
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [s40523203](http://s405233203.github.io/kmolab/blog/)
+&lt;/small&gt;
+
+[s40523203](blog/index.html)
+
+</t>
+<t tx="leo.20170118230942.5">(uncached) yen.20161011122932.1
+Diff...
+  &lt;section&gt;
+  @others
++ &lt;/section&gt;</t>
+<t tx="leo.20170118230942.6">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170118230942.7">&lt;section&gt;
+@others
+</t>
+<t tx="leo.20170118230942.8">(uncached) yen.20161011122601.1
+Diff...
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- # 計算機程式課程規劃
+- 
+- ## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
+- ## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
+- ## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 下載 miniconda 可攜環境
+- 
+-   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+-   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+-   * start.bat 啟動, stop.bat 關閉
+-   * 建議存在隨身硬碟中使用
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 學員自評項目
+- 
+- * 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
+- * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+- * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+- * 每週更新個人與分組的 Github Pages 投影片與網誌
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 						
+- &lt;/section&gt;
+- &lt;section&gt;
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20170118230942.9">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -528,6 +933,49 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="yen.20161011122601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+# 計算機程式課程規劃
+
+## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
+## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
+## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 學員自評項目
+
+* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
+* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
+* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
+* 每週更新個人與分組的 Github Pages 投影片與網誌
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -545,7 +993,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="yen.20161011122932.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+</t>
 <t tx="yen.20161011122957.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -587,11 +1035,6 @@ Brython (Javascript): https://www.brython.info/
 <t tx="yen.20161011124118.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20161011124118.2"># Python 2 或 3?
 
@@ -601,7 +1044,8 @@ Brython (Javascript): https://www.brython.info/
 </t>
 <t tx="yen.20161011125115.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20161011125115.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -619,7 +1063,8 @@ Brython (Javascript): https://www.brython.info/
 </t>
 <t tx="yen.20161011143808.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20161011143808.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -668,7 +1113,8 @@ Brython (Javascript): https://www.brython.info/
 </t>
 <t tx="yen.20161011145156.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20161011145156.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -809,47 +1255,16 @@ Brython (Javascript): https://www.brython.info/
 ## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
 
 </t>
-<t tx="yen.20161016004633.1">&lt;section&gt;
-@others
+<t tx="yen.20161016004633.1">@others
 &lt;/section&gt;
 </t>
-<t tx="yen.20161016004633.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
+<t tx="yen.20161016004633.4">@others
 </t>
-<t tx="yen.20161016004633.5"># 計算機程式課程規劃
-
-## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
-## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
-## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
-
+<t tx="yen.20161016004633.5"></t>
+<t tx="yen.20161016010643.1">@others
 </t>
-<t tx="yen.20161016010643.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20161016010643.2">## 下載 miniconda 可攜環境
-
-  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
-  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
-  * start.bat 啟動, stop.bat 關閉
-  * 建議存在隨身硬碟中使用
-
-
-</t>
-<t tx="yen.20161016010719.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
+<t tx="yen.20161016010643.2"></t>
+<t tx="yen.20161016010719.1">@others
     &lt;/script&gt;
 &lt;/section&gt;
 
@@ -919,7 +1334,8 @@ Brython (Javascript): https://www.brython.info/
 </t>
 <t tx="yen.20161016012809.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20161016012809.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -992,12 +1408,7 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="yen.20161016012922.1">## 學員自評項目
-
-* 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
-* 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
-* 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
-* 每週更新個人與分組的 Github Pages 投影片與網誌</t>
+<t tx="yen.20161016012922.1"></t>
 <t tx="yen.20161016023122.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
